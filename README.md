@@ -3,11 +3,11 @@
 Build Healthier Digital Habits Through Play  
 **Gamified · Social · Rewarding**
 
-Unplugged is a UI/UX and Human-Computer Interaction (HCI) project focused on helping users reduce excessive screen time through gamified offline challenges, social accountability, and rewarding habit-building experiences. The project was designed as a complete case study covering user research, UX strategy, prototyping, visual design, and interaction flows. :contentReference[oaicite:0]{index=0}
+Unplugged is a UI/UX and Human-Computer Interaction (HCI) project focused on helping users reduce excessive screen time through gamified offline challenges, social accountability, and rewarding habit-building experiences. The project was designed as a complete case study covering user research, UX strategy, prototyping, visual design, and interaction flows.
 
 ## Project Overview
 
-Modern users face increasing digital overload, burnout, and difficulty maintaining healthy screen-time habits. Unplugged was designed to transform digital wellness from a restrictive experience into a motivating and enjoyable journey through community interaction, offline activities, and gamified progression systems. :contentReference[oaicite:1]{index=1}
+Modern users face increasing digital overload, burnout, and difficulty maintaining healthy screen-time habits. Unplugged was designed to transform digital wellness from a restrictive experience into a motivating and enjoyable journey through community interaction, offline activities, and gamified progression systems.
 
 ## Problem Statement
 
@@ -16,7 +16,7 @@ The project addresses several modern digital wellness challenges including:
 - Difficulty focusing due to constant notifications
 - Social media burnout
 - Poor work-life balance
-- Reduced real-world engagement :contentReference[oaicite:2]{index=2}
+- Reduced real-world engagement
 
 ## Solution Concept
 
@@ -26,29 +26,29 @@ Unplugged combines:
 - Gamification systems
 - Progress tracking and rewards
 
-to create a healthier and more engaging digital wellness experience. :contentReference[oaicite:3]{index=3}
+to create a healthier and more engaging digital wellness experience.
 
 ## Core Features
 
 ### Offline Challenges
-Daily and weekly challenges encouraging meaningful offline activities with photo check-ins for completion validation. :contentReference[oaicite:4]{index=4}
+Daily and weekly challenges encouraging meaningful offline activities with photo check-ins for completion validation.
 
 ### Gamification System
-XP, streaks, levels, badges, and achievement systems designed to motivate consistency and long-term engagement. :contentReference[oaicite:5]{index=5}
+XP, streaks, levels, badges, and achievement systems designed to motivate consistency and long-term engagement.
 
 ### Guilds & Social Features
-Users can join interest-based communities, share challenge progress, and motivate each other through friendly competition and accountability. :contentReference[oaicite:6]{index=6}
+Users can join interest-based communities, share challenge progress, and motivate each other through friendly competition and accountability.
 
 ### Analytics Dashboard
-Track offline time, challenge completion history, streaks, and productivity insights. :contentReference[oaicite:7]{index=7}
+Track offline time, challenge completion history, streaks, and productivity insights.
 
 ## User Research & Market Positioning
 
 The project included competitor analysis of applications such as:
-- :contentReference[oaicite:8]{index=8}
-- :contentReference[oaicite:9]{index=9}
-- :contentReference[oaicite:10]{index=10}
-- :contentReference[oaicite:11]{index=11}
+- Forest
+- Habitica
+- Duolingo
+- Flipd
 
 Research identified a market gap where no competitor combined:
 - offline challenges
@@ -56,7 +56,7 @@ Research identified a market gap where no competitor combined:
 - gamification
 - digital wellness
 
-within a single unified experience. :contentReference[oaicite:12]{index=12}
+within a single unified experience.
 
 ## UX Process
 
@@ -76,7 +76,7 @@ The project followed a full UX workflow including:
 ### Color Palette
 - Warm Yellow → motivation and energy
 - Growth Green → progress and achievement
-- Neutral White → clarity and focus :contentReference[oaicite:13]{index=13}
+- Neutral White → clarity and focus
 
 ### Accessibility
 The interface was designed with accessibility principles in mind including:
@@ -84,7 +84,7 @@ The interface was designed with accessibility principles in mind including:
 - Readable typography hierarchy
 - Clear CTAs
 - Accessible touch targets
-- Structured spacing systems :contentReference[oaicite:14]{index=14}
+- Structured spacing systems
 
 ## Prototype
 
@@ -95,15 +95,7 @@ The project includes:
 - Interactive challenge and guild interfaces
 
 ### Figma Prototype
-:contentReference[oaicite:15]{index=15}
-
-## My Contribution
-
-- Contributed to UX research and interaction design decisions
-- Participated in user flow and user journey planning
-- Worked on interface structure and feature ideation
-- Assisted in prototyping, usability improvements, and visual hierarchy decisions
-- Contributed to presentation design and case study documentation
+[View Figma Prototype](https://www.figma.com/proto/4vyUwE3xYH86VqLXuySx53/Unplugged?node-id=0-1&t=3g5qi3XeH4BhG7iK-1)
 
 ## Team Members
 
@@ -111,7 +103,7 @@ The project includes:
 - Nour Mohamed
 - Aya Mohsen
 - Shahd Osama
-- Rokaya Maged :contentReference[oaicite:16]{index=16}
+- Rokaya Maged
 
 ## Tools Used
 
@@ -121,16 +113,6 @@ The project includes:
 - Wireframing & Prototyping
 - Visual Design Systems
 
-## Repository Contents
-
-- UX Case Study
-- User Research & Personas
-- User Flow & Journey Maps
-- Handmade Prototype Iterations
-- Figma Design Prototype
-- Design System Documentation
-- Marketing & Product Strategy
-
 ## Academic Context
 
-This project was developed as part of the Human-Computer Interaction (HCI) course at the Faculty of Computing and AI, Cairo University, and focused on applying UX research, interaction design, usability principles, and user-centered problem solving to a real-world digital wellness challenge. :contentReference[oaicite:17]{index=17}
+This project was developed as part of the Human-Computer Interaction (HCI) course at the Faculty of Computing and AI, Cairo University, and focused on applying UX research, interaction design, usability principles, and user-centered problem solving to a real-world digital wellness challenge.
