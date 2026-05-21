@@ -112,7 +112,3 @@ The project includes:
 - HCI Principles
 - Wireframing & Prototyping
 - Visual Design Systems
-
-## Academic Context
-
-This project was developed as part of the Human-Computer Interaction (HCI) course at the Faculty of Computing and AI, Cairo University, and focused on applying UX research, interaction design, usability principles, and user-centered problem solving to a real-world digital wellness challenge.
